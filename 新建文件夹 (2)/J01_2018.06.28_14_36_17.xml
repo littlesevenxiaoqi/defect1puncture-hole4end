@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.28_14_36_17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puncture-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>1233</ymin>
+			<xmax>747</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>puncture-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>1342</ymin>
+			<xmax>747</xmax>
+			<ymax>1405</ymax>
+		</bndbox>
+	</object>
+</annotation>
